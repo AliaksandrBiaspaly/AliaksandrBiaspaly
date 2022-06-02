@@ -1,5 +1,5 @@
 - <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate backend Python developer</h3>
+<h3 align="center">A passionate SUPER Junior backend Python developer</h3>
 
 - 🔭 I’m currently studying at **IT Academy STEP**
 
