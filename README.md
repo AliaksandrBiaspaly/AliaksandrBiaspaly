@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **IT Academy STEP**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** **WEB**
 
 - 👀 I’m interested in any activities (sport, travel)
 - 💞️ I’m looking to collaborate on any commercial project
